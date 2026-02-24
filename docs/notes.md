@@ -24,3 +24,4 @@ Notes and usage details for BuildCLI.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
