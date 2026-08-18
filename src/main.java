@@ -31,3 +31,4 @@ BuildCLI is a command-line interface (CLI) tool for managing and automating comm
 // guard against empty input
 // clarify the control flow
 // avoid re-reading the config on every call
+// drop an unused branch
